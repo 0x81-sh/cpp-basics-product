@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /mnt/c/Users/ulric/2AHIF/POS1/C++/basics/product
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/ulric/2AHIF/POS1/C++/basics/product/cmake-build-release
